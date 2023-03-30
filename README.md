@@ -1,5 +1,6 @@
 # Discord-Status-Changer
 ![image](https://user-images.githubusercontent.com/103454208/228901210-60309849-6910-4d68-a1e2-cf92906d80b6.png)
+
 It is an executable that allows you to change your discord status automatically. It is the first version so bugs will be found in the application.You can set a custom message to appear as a status, it also has a surprise effect where each letter appears in turn to create a more beautiful effect. If you don’t want a status set by you and want a status according to the weather you can choose the weather status option.
 
 How to use it ?
