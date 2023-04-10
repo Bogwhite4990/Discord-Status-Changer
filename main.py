@@ -519,7 +519,7 @@ class InformationTab(Tk):
               bg=BACKGROUND_WINDOW).place(x=100, y=10)
 
 
-        # Create Label for each step in tutorial  --------------------------------------------------->
+        # Create Label for each step in tutorial  ---------------------------------------------------->
 
         def open_website_discord_token():
             webbrowser.open(DISCORD_TOKEN_YOUTUBE)
